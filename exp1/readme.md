@@ -7,15 +7,15 @@
 ### DATE TIME COMMAND OUTPUT
 ![date time command output](date1.png)
 ### DATE TIME COMMAND MANUAL
-![date time command manual](mdate1.png)
+![date time command manual](mdate.png)
 ### DATE YEAR COMMAND OUTPUT
 ![date year command output](date2.png)
 ### DATE YEAR COMMAND MANUAL
-![date year command manual](mdate2.png)
+![date year command manual](mdate.png)
 ### DATE HOUR COMMAND OUTPUT
 ![date hour command output](date3.png)
 ### DATE HOUR COMMAND MANUAL
-![date hour command manual](mdate3.png)
+![date hour command manual](mdate.png)
 ### CAL COMMAND OUTPUT
 ![cal command output](cal.png)
 ### CAL COMMAND MANUAL
